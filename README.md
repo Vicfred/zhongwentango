@@ -6,4 +6,5 @@
     - Parse it with your favourite programming language.
     - Parse it with a CLI program.
 - Hanzi, zhuyin, japanese, english and spanish.
+- Example sentence.
 - Separated into categories.
