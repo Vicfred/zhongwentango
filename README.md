@@ -1,4 +1,4 @@
-## N3 japanese vocabulary
+## Basic chinese vocabulary
 
 ### Current features.
 - Comma separated values for easy parsing.
